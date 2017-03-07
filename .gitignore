@@ -1,0 +1,29 @@
+# Mac / Local
+.DS_Store
+tmp/
+
+# Python / Tests
+*.pyc
+pip-selfcheck.json
+man
+
+#PyPi
+.pypirc
+dist/
+MANIFEST
+
+# drive
+.gd
+
+# Virtualenv
+.Python
+bin
+lib
+include
+
+# Codebase
+playground.py
+data/
+csv/
+logs/
+results/
